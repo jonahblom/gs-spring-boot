@@ -68,8 +68,8 @@
          <url>http://23.21.241.40:8080/manager/text</url>
          <warFile>target\hello.war</warFile>
          <path>/hello</path>
-         <username>admin</username>
-        <password>cloud@123</password>
+         <username>jblom</username>
+        <password>Louie123</password>
          </configuration>
      </plugin>  
 
